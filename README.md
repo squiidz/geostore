@@ -1,1 +1,1 @@
-# gstore
+# geostore
